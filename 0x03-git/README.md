@@ -1,1 +1,1 @@
-directory for holberton's school project
+it's my directory for holberton's school project
